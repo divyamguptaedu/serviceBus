@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = QueueSender
+build_property.ProjectDir = C:\Users\t-digupta\source\repos\ServiceBusQueueQuickStart\QueueSender\

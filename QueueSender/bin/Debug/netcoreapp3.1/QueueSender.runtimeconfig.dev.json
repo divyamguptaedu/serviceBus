@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\t-digupta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\t-digupta\\.nuget\\packages"
+    ]
+  }
+}
